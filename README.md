@@ -1,4 +1,4 @@
-# Target Universal Attack on GCN (TUA)
+# SIGTA
 
 ## Introdction
 
